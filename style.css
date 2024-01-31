@@ -1,0 +1,37 @@
+body {
+    background-color:blueviolet;
+    height: 1500px;
+}
+
+.parent {
+    background-color:darkorchid;
+    text-align: center;
+    padding: 20px;
+}
+.div1 {
+    width: 30%;
+    background-color:rebeccapurple;
+    display: inline-block;
+    border: 2px white solid;
+    padding: 5px;
+}
+.div1 img {
+    width: 100%;
+}
+.btn {
+    background-color:cornflowerblue;
+    color:white;
+    border-radius: 10px;
+    border: 1px white solid;
+    width: 100px;
+    height:30px;
+}
+.container {
+    height: 500px;
+    margin-top: 40px;
+    background-image: url(image4.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
